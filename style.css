@@ -1,0 +1,27 @@
+body {
+    font-style: oblique;
+    background-color: #00ff59;
+    text-align: center;
+    padding-top: 50px;
+    container-type: flex;
+}
+
+#Submit{
+    background-color: #55bf55;
+    color: #ffffff;
+    font-size: 15px;
+    border-radius: 20px;
+    padding: 10px;
+    cursor: pointer;
+}
+#box{
+    background-color: #fdfdfd;
+    border-radius: 4px;
+}
+#box:hover{
+    background-color: #ffe4c4;
+}
+
+#Submit:hover{
+    background-color: #006400;
+}
